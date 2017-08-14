@@ -15,7 +15,7 @@
 * 熟悉常用数据库: Redis, Mongodb, HBase、Mysql
 * 熟悉常用的消息队列: Kafka, NSQ、MQTT
 * 熟悉分布式系统常用技术：zookeeper、etcd
-* 熟悉网络编程
+* 熟悉网络编程、常用网络协议
 * 大数据技术: Hive、HBase
 
 ## 工作经历  
