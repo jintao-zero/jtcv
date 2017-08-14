@@ -20,21 +20,24 @@
 
 ## 工作经历  
 ### 2016/01～至今 上海利莫 后端开发
-主要工作内容：   
+主要工作内容(独立完成)：   
 
 * 万得level2实时交易数据接入、分发、处理、存储
 * 上证、深证level1实时交易数据接入、分发、处理、存储、基础行情推送
+* 按照算法人员设计，实现各种数据统计工作
 * RESTful API接口开发
+* 组织技术指标，实时选股功能设计实现
+* 基于kafka、etcd实现高可用方案
 
-涉及技术：Golang、Gin、C++、socket、MQTT、Mongodb、Redis、Kafka
+涉及技术：Golang、Python、Gin、C++、socket、MQTT、Mongodb、Redis、Kafka、etcd
 
 ### 2014/04～2016/01 江苏省未来网络创新研究院
 主要工作内容：  
 
-* 小蜜蜂网站监测测量平台搭建，实现基于IDC服务器、个人电脑、手机等网络节点的服务测量系统  
+* 小蜜蜂网站监测测量平台搭建，实现基于IDC服务器、个人电脑、手机等网络节点的服务测量系统(节点注册、状态监控、任务下发、结果上报) 
 * 对测量结果进行处理，形成报表数据  
 
-涉及技术：C/C++、ACE、ejabberd、libevent、netfilter、iptables、Java、Hive、Hbase、Mysql、zookeeper  
+涉及技术：C/C++、ACE、ejabberd、netfilter、iptables、Java、Hive、Hbase、Mysql、zookeeper  
 	
 ### 2011/04～2014/04 华为
 主要工作内容：  
