@@ -1,7 +1,7 @@
 ## 金涛
-* 求职意向：Go后端开发||分布式系统开发
+* 求职意向：Go后端开发
 * 教育背景：  
-    南京航空航天大学-计算机网络-硕士-2006～2009  
+    南京航空航天大学-计算机网络安全-硕士-2006～2009  
     南京航空航天大学-信息科学与技术-本科-2002～2006
 * 电话：+86 18626464988
 * 电子邮箱：jintao_jt@163.com
@@ -11,42 +11,48 @@
 
 ## 技术积累
 * 多年嵌入式Linux C语言开发经验，熟悉gcc、gdb、perf等常用工具
-* 擅长的编程语言：Golang、C、C++，熟悉：Python、Java
-* 熟悉常用数据库: Redis, Mongodb, HBase、Mysql
-* 熟悉常用的消息队列: Kafka, NSQ、MQTT
-* 熟悉分布式系统常用技术：zookeeper、etcd
-* 熟悉网络编程、常用网络协议
-* 大数据技术: Hive、HBase
+* 擅长的编程语言：Golang、C、C++, 熟悉python
+* 熟悉常用数据库: Mongodb, Redis, HBase、Mysql
+* 熟悉常用的消息队列: Kafka, RabbitMQ、MQTT
+* 熟悉分布式系统常用技术：zookeeper、etcd、gRPC
+* 熟悉网络编程、多线程、多进程调试
+* 大数据技术: Hive、Hadoop
+* 代码版本管理软件: git、svn
 
 ## 工作经历  
 ### 2016/01～至今 上海利莫 后端开发
-主要工作内容(独立完成)：   
+主要工作内容：   
 
+* 独立架构并实现高可用行情系统(A股、港股)
 * 万得level2实时交易数据接入、分发、处理、存储
-* 上证、深证level1实时交易数据接入、分发、处理、存储、基础行情推送
+* 上证、深证level1实时交易数据接入、分发、处理、存储、基础行情推送（分时、k线等）
+* HTTP API行情接口开发,RPC接口供内部使用
+* 实时选股功能设计实现
+* 实时行情推送
+* 板块分时
 * 按照算法人员设计，实现各种数据统计工作
-* RESTful API接口开发
-* 组织技术指标，实时选股功能设计实现
-* 基于kafka、etcd实现高可用方案
+* 组件环境搭建、系统部署、线上问题定位、数据恢复等
 
-涉及技术：Golang、Python、Gin、C++、socket、MQTT、Mongodb、Redis、Kafka、etcd
+涉及技术：Golang、Python、Gin、C/C++、socket、RabbitMQ、MQTT、Mongodb、Redis、Kafka、etcd、nginx、Makefile、protobuf 
 
 ### 2014/04～2016/01 江苏省未来网络创新研究院
 主要工作内容：  
 
 * 小蜜蜂网站监测测量平台搭建，实现基于IDC服务器、个人电脑、手机等网络节点的服务测量系统(节点注册、状态监控、任务下发、结果上报) 
+* 基于namespace网络代理测量
 * 对测量结果进行处理，形成报表数据  
 
-涉及技术：C/C++、ACE、ejabberd、netfilter、iptables、Java、Hive、Hbase、Mysql、zookeeper  
+涉及技术：C/C++、boost、netfilter、iptables、Java、Hive、Hbase、Mysql、zookeeper  
 	
 ### 2011/04～2014/04 华为
 主要工作内容：  
 华为ATN多业务接入盒式设备项目
 
 * 开发单板故障诊断维修软件
+* 负责设备管理模块开发调试
 * 负责系统接口管理模块开发调试
 
-涉及技术：C/C++、Vxworks、glibc、多线程、华为敏捷开发  
+涉及技术：C/C++、Vxworks、多线程、华为敏捷开发  
 
 ### 2009/04～2011/04 中兴通讯
 主要工作内容：  
@@ -76,9 +82,4 @@
 ##自我评价  
 
 * 基础扎实、不坑队友
-
-
-
-
-
 
